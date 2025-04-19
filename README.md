@@ -18,6 +18,6 @@ A Python script that automatically scrapes articles from various categories on [
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/blaszkin/scraper.git
