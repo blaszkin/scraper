@@ -21,4 +21,3 @@ A Python script that automatically scrapes articles from various categories on [
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/blaszkin/scraper.git
-   cd scraper
